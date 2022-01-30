@@ -1,11 +1,11 @@
 Gm,
 
-I'm a new full-stack web3 dev, focusing on Solidity. You should know I think in terms of *products*!
+I'm a new full-stack web3 dev, focusing on Solidity. I think in terms of *products*!
 
-I use Foundry, and sometimes Brownie, for development.
+I use Foundry and Brownie for development.
 
 ### Products and projects
-[📖 Foundry Book](https://onbjerg.github.io/foundry-book/) (Contributor)
+- [📖 Foundry Book](https://onbjerg.github.io/foundry-book/) (Contributor)
 
 <br>
 
