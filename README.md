@@ -1,4 +1,16 @@
-### Hi there 👋
+Gm,
+
+I'm a new full-stack web3 dev, focusing on Solidity. You should know I think in terms of *products*!
+
+I use Foundry, and sometimes Brownie, for development.
+
+### Products and projects
+[📖 Foundry Book](https://onbjerg.github.io/foundry-book/) (Contributor)
+
+<br>
+
+u can contact me on twitter <br>
+🌸
 
 <!--
 **ZeroEkkusu/ZeroEkkusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
