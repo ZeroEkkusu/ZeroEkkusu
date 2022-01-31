@@ -1,6 +1,6 @@
 Gm,
 
-I'm mastering full-stack web3 dev with focus on Solidity!
+I'm mastering full-stack web3 dev, with focus on Solidity!
 
 I use Foundry and Brownie for development.
 
