@@ -1,10 +1,10 @@
-### gm!
+## gm!
 
-I do web3 dev / mastering Solidity.
+I do all things web3. Mastering Solidity.
 
 I use Foundry for development.
 
-#### Products and projects
+### Products and projects
 - [📖 Foundry Book](https://onbjerg.github.io/foundry-book/) (Contributor)
 
 <br>
