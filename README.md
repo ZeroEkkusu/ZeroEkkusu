@@ -1,6 +1,6 @@
-## gm!
+## gm! 🌸
 
-I do all things web3. Mastering Solidity.
+I'm obsessed with web3. Mastering Solidity.
 
 I use Foundry for development.
 
@@ -9,7 +9,7 @@ I use Foundry for development.
 
 <br>
 
-You can contact me on [Twitter](https://twitter.com/ZeroEkkusu00x) 🌸
+You can contact me on [Twitter](https://twitter.com/ZeroEkkusu00x)
 
 <!--
 **ZeroEkkusu/ZeroEkkusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
