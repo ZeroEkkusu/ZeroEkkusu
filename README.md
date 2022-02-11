@@ -1,6 +1,6 @@
 ## gm! 🌸
 
-I'm obsessed with web3. Mastering Solidity.
+I'm obsessed with web3! Mastering Solidity.
 
 I use Foundry for development.
 
