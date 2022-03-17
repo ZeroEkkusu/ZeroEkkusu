@@ -1,15 +1,21 @@
-## gm! 🌸
+**gm,**
 
-I do all things web3! Mastering Solidity.
+I like solving problems, making new things, and helping other people.
 
-I use Foundry for development.
+I'm interested in web3 and am looking for opportunities to grow.
 
-### Products and projects
-- [📖 Foundry Book](https://onbjerg.github.io/foundry-book/) (Contributor)
+Currently teaching myself Solidity.
+
+### 🔥 *hot products, projects*
+
+- **[⛳ Re:Golf Course](https://github.com/ZeroEkkusu/re-golf-course)**: A list of common Solidity optimization tips and myths
+- **[🧪 Optimizooor's Lab](https://github.com/ZeroEkkusu/optimizooors-lab)**: A library for measuring gas savings with diff optimizations
+- **[📖 Foundry Book](https://onbjerg.github.io/foundry-book/)**: A book on all things Foundry
+- **[Forge Standard Library](https://github.com/brockelmore/forge-std)**: A library for expanding the functionality of tests with Forge
 
 <br>
 
-You can contact me on [Twitter](https://twitter.com/ZeroEkkusu00x)
+You can contact me on [**Twitter**](https://twitter.com/ZeroEkkusu00x)
 
 <!--
 **ZeroEkkusu/ZeroEkkusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
