@@ -1,4 +1,4 @@
-**gm,**
+### gm
 
 I like solving problems, making new things, and helping other people.
 
@@ -11,7 +11,7 @@ Currently teaching myself Solidity.
 - **[⛳ Re:Golf Course](https://github.com/ZeroEkkusu/re-golf-course)**: A list of common Solidity optimization tips and myths
 - **[🧪 Optimizooor's Lab](https://github.com/ZeroEkkusu/optimizooors-lab)**: A library for measuring gas savings with diff optimizations
 - **[📖 Foundry Book](https://onbjerg.github.io/foundry-book/)**: A book on all things Foundry
-- **[Forge Standard Library](https://github.com/brockelmore/forge-std)**: A library for expanding the functionality of tests with Forge
+- **[Forge Standard Library](https://github.com/brockelmore/forge-std)**: A library with powerful and easy-to-use Forge expansions
 
 <br>
 
