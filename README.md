@@ -6,7 +6,7 @@ I'm interested in web3 and am looking for opportunities to grow.
 
 Currently teaching myself Solidity.
 
-### 🔥 *hot products, projects:*
+### products & projects
 
 - **[⛳ Re:Golf Course](https://github.com/ZeroEkkusu/re-golf-course)**: A list of common Solidity optimization tips and myths
 - **[🧪 Optimizooor's Lab](https://github.com/ZeroEkkusu/optimizooors-lab)**: A library for measuring gas savings with diff optimizations
