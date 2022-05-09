@@ -6,13 +6,6 @@ I'm interested in web3 and am looking for opportunities to grow.
 
 Currently teaching myself Solidity.
 
-### products & projects
-
-- **[⛳ Re:Golf Course](https://github.com/ZeroEkkusu/re-golf-course)**: A list of common Solidity optimization tips and myths
-- **[🧪 Optimizooor's Lab](https://github.com/ZeroEkkusu/optimizooors-lab)**: A library for measuring gas savings with diff optimizations
-- **[📖 Foundry Book](https://onbjerg.github.io/foundry-book/)**: A book on all things Foundry
-- **[Forge Standard Library](https://github.com/brockelmore/forge-std)**: A library with powerful and easy-to-use Forge expansions
-
 <br>
 
 You can contact me on [**Twitter**](https://twitter.com/ZeroEkkusu00x)
