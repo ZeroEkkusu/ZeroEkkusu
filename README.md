@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/94782988/180602206-3bdfedaf-393f-4976-9161-7411a07fbc95.gif" alt="Foundry logo" align="right" width="300"/>
+<img src="https://user-images.githubusercontent.com/94782988/180606988-661bb7e1-bd2a-42b8-9fcf-b053861a6917.gif" alt="Mark" align="right" width="150"/>
 
 I'm Zero Ekkusu.
 
