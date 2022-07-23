@@ -1,14 +1,10 @@
-### gm
+<img src="https://user-images.githubusercontent.com/94782988/180602206-3bdfedaf-393f-4976-9161-7411a07fbc95.gif" alt="Foundry logo" align="right" width="300"/>
 
-I like solving problems, making new things, and helping other people.
+I'm Zero Ekkusu.
 
-I'm interested in web3 and am looking for opportunities to grow.
-
-Currently teaching myself TypeScript.
+I like solving problems, inventing things, and helping other people.
 
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroEkkusu&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 You can contact me on [**Twitter**](https://twitter.com/ZeroEkkusu00x)
 
