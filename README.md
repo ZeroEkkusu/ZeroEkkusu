@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/94782988/180606988-661bb7e1-bd2a-42b8-9fcf-b053861a6917.gif" alt="Mark" align="right" width="150"/>
-
 ### ゼロ エックス
+
+<img src="https://user-images.githubusercontent.com/94782988/180606988-661bb7e1-bd2a-42b8-9fcf-b053861a6917.gif" alt="Mark" align="right" width="150"/>
 
 I like solving problems, inventing things, and helping people.
 
