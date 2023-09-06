@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/94782988/180606988-661bb7e1-bd2a-42b8-9fcf-b053861a6917.gif" alt="ZE Mark" align="right" width="150"/>
 
-### ゼロエックス
+# ゼロエックス
 
-I like solving problems, inventing things, and helping people.
+I like helping others.
 
 <br>
 
