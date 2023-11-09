@@ -6,7 +6,7 @@ I like helping others.
 
 <br>
 
-You can contact me on [**Twitter**](https://twitter.com/ZeroEkkusu00x)
+You can contact me on [**𝕏**](https://x.com/ZeroEkkusu00x)
 
 <!--
 **ZeroEkkusu/ZeroEkkusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
