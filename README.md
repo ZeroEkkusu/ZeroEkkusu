@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/94782988/180606988-661bb7e1-bd2a-42b8-9fcf-b053861a6917.gif" alt="ZE Mark" align="right" width="150"/>
 
-## ゼロエックス
+### *ゼロエックス*
 
 I like helping others.
 
 <br>
 
-You can contact me on [**𝕏**](https://x.com/ZeroEkkusu00x)
+You can [contact me](https://x.com/ZeroEkkusu00x) on 𝕏
 
 <!--
 **ZeroEkkusu/ZeroEkkusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
